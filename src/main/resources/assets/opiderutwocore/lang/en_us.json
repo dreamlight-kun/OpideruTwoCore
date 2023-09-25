@@ -1,0 +1,30 @@
+{
+  "item.opiderutwocore.engineriate_ingot" : "Engineriate Ingot",
+  "item.opiderutwocore.engineriate_nugget" : "Engineriate Nugget",
+  "item.opiderutwocore.powdered_engineriate" : "Powdered Engineriate",
+  "item.opiderutwocore.raw_engineriate" : "Raw Engineriate",
+
+  "item.opiderutwocore.titanium_ingot" : "Titanium Ingot",
+  "item.opiderutwocore.titanium_nugget" : "Titanium Nugget",
+  "item.opiderutwocore.powdered_titanium" : "Powdered Titanium",
+  "item.opiderutwocore.raw_titanium" : "Raw Titanium",
+
+  "item.opiderutwocore.transcavite" : "Transcavite",
+  "item.opiderutwocore.pure_gold_ingot" : "Pure Gold Ingot",
+
+
+
+
+  "block.opiderutwocore.engineriate_block": "Engineriate Block",
+  "block.opiderutwocore.engineriate_ore": "Engineriate Ore",
+  "block.opiderutwocore.deepslate_engineriate_ore": "Deepslate Engineriate Ore",
+
+  "block.opiderutwocore.titanium_block": "Titanium Block",
+  "block.opiderutwocore.titanium_ore": "Titanium Ore",
+
+
+
+  "itemGroup.opideru_blocks_tab" : "Opideru Two : Blocks",
+  "itemGroup.opideru_items_tab" : "Opideru Two : Items",
+  "itemGroup.opideru_tools_tab" : "Opideru Two : Tools & Weaponry"
+}
